@@ -1,5 +1,5 @@
 package compareAlgorithm;
-
+/*trial*/
 import java.util.ArrayList;
 import org.apache.commons.codec.EncoderException;
 import org.apache.commons.codec.language.Soundex;
